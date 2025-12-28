@@ -12,6 +12,8 @@ Java Developer • Backend • Taganrog
 1997 — 2002
 **Moscow Aviation Institute (National Research University)**  
 2006 — 2013
+**Computer Academy Top**
+2024-2025
 
 ## 🧰 Skills
 - **Java:** Core, Collections, OOP
