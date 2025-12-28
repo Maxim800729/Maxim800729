@@ -17,7 +17,7 @@ Java Developer • Backend • Taganrog
 - **Java:** Core, Collections, OOP
 - **Backend:** (если используете) Spring / Spring Boot, Hibernate
 - **Databases:** SQL (MySQL / PostgreSQL / SQLite / SQL Server)
-- **Tools:** Git, Maven/Gradle, IntelliJ IDEA, Linux/Windows
+- **Tools:** Git, Maven/Gradle, IntelliJ IDEA, Docker,Linux/Windows
 
 ## 📌 Projects
 - [Project 1](https://github.com/Maxim800729/REPO_NAME) — short description
@@ -26,6 +26,6 @@ Java Developer • Backend • Taganrog
 
 
 ## 📫 Contacts
-- Email: yourmail@gmail.com
+- Email: maxchakanov@gmail.com
 - LinkedIn: https://linkedin.com/in/yourprofile
-- Telegram: https://t.me/yourusername
+- Telegram: https://t.me/Maxim110280
