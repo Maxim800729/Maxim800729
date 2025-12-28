@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Maxim 👋
 
-<!--
-**Maxim800729/Maxim800729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer • Backend • Taganrog
 
-Here are some ideas to get you started:
+## 💼 About
+- Interested in backend development and APIs
+- Working with databases and clean code
+- Learning and building pet projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Taganrog State Pedagogical Institute (Taganrog, Russia)**  
+1997 — 2002
+**Moscow Aviation Institute (National Research University)**  
+2006 — 2013
+
+## 🧰 Skills
+- **Java:** Core, Collections, OOP
+- **Backend:** (если используете) Spring / Spring Boot, Hibernate
+- **Databases:** SQL (MySQL / PostgreSQL / SQLite / SQL Server)
+- **Tools:** Git, Maven/Gradle, IntelliJ IDEA, Linux/Windows
+
+## 📌 Projects
+- [Project 1](https://github.com/Maxim800729/REPO_NAME) — short description
+- [Project 2](https://github.com/Maxim800729/REPO_NAME) — short description
+
+## 📜 Diplomas & Certificates
+> Before publishing: hide document number / sensitive data.
+
+![Diploma](./assets/diploma.jpg)
+
+## 📫 Contacts
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Telegram: https://t.me/yourusername
