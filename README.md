@@ -27,5 +27,5 @@ Java Developer • Backend • Taganrog
 
 ## 📫 Contacts
 - Email: maxchakanov@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/maxim-chakanov-27347a237
 - Telegram: https://t.me/Maxim110280
