@@ -15,7 +15,7 @@ Java Developer • Backend • Taganrog
 
 ## 🧰 Skills
 - **Java:** Core, Collections, OOP
-- **Backend:** (если используете) Spring / Spring Boot, Hibernate
+- **Backend:** Spring / Spring Boot, Hibernate
 - **Databases:** SQL (MySQL / PostgreSQL / SQLite / SQL Server)
 - **Tools:** Git, Maven/Gradle, IntelliJ IDEA, Docker,Linux/Windows
 
