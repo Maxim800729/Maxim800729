@@ -23,10 +23,7 @@ Java Developer • Backend • Taganrog
 - [Project 1](https://github.com/Maxim800729/REPO_NAME) — short description
 - [Project 2](https://github.com/Maxim800729/REPO_NAME) — short description
 
-## 📜 Diplomas & Certificates
-> Before publishing: hide document number / sensitive data.
 
-![Diploma](./assets/diploma.jpg)
 
 ## 📫 Contacts
 - Email: yourmail@gmail.com
